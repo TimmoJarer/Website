@@ -1,0 +1,94 @@
+#logintable {
+	position: absolute;
+	left: 35%;
+	top: 50%;
+}
+
+#registerbutton{
+	position: absolute;
+	top:35%;
+	left: 47.5%;
+}
+
+#loginbutton{
+	position: absolute;
+	top:60%;
+	left: 49%;
+}
+
+
+
+#circle{
+	background-color: yellow;
+	position: absolute;
+	width : 50%;
+	height: 70%;
+	top: 15%;
+	left: 25%;
+	border-radius: 50%;
+	z-index: -1;
+}
+
+#registrationtable {
+	position: absolute;
+	left: 35%;
+	top: 50%;
+}
+
+
+
+
+#header{
+	background-color: yellow;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 15%
+}
+
+
+
+#logo{
+	position: absolute;
+	top: 30px;
+	z-index: -1;
+}
+
+#footer{
+	background-color: yellow;
+	position: absolute;
+	bottom: 0px;
+	left: 0%;
+	width: 100%;
+	height: 15%;
+
+}
+
+#uphpic{
+	position: absolute;
+	background-color: white;
+	top: 0px;
+	left: 0px;
+	width: 30%;
+	height: 30%;
+	z-index: -2;
+}
+
+
+#uphprofiledata{
+	position: absolute;
+	left: 0px;
+	top: 30%;
+	width: 30%;
+	height: 100%;
+	background-color: yellow;
+	z-index: -2;
+}
+
+#logout{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
